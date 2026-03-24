@@ -54,15 +54,15 @@ O projeto segue a arquitetura em camadas:
 
 ## Evidências (prints)
 
-![Estrutura das tabelas no banco](docs/estrutura_banco.png)
+![Estrutura das tabelas no banco](data_lake/docs/estrutura_banco.png)
 
-![Execução das queries 1](docs/execucao_1.png)
+![Execução das queries 1](data_lake/docs/execucao_1.png)
 
-![Execução das queries 2](docs/execucao_2.png)
+![Execução das queries 2](data_lake/docs/execucao_2.png)
 
-![Pipeline rodando](docs/pipe.png)
+![Pipeline rodando](data_lake/docs/pipe.png)
 
-![Exemplo de dados carregados](docs/exemplo.png)
+![Exemplo de dados carregados](data_lake/docs/exemplo.png)
 
 ---
 
@@ -116,7 +116,7 @@ pip install -r requirements.txt
 
 ---
 
-### ▶️ Ordem de execução
+### Ordem de execução
 
 1. Executar ingestão (Bronze)
 2. Executar transformação (Silver)
