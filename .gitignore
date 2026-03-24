@@ -1,0 +1,8 @@
+lab_env/
+__pycache__/
+*.pyc
+*.zip
+*.csv
+*.parquet
+logs/
+*.log
